@@ -1,4 +1,4 @@
-baseURL = 'https://netbuk.github.io/hugo-blog/'
+baseURL = 'https://netbuk.github.io/hugo-blog'
 languageCode = 'de-de'
 title = 'NETBUK'
 paginate = 3
